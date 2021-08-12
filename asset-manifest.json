@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/powerbi-app/static/css/main.3e4645d8.chunk.css",
-    "main.js": "/powerbi-app/static/js/main.1949ec64.chunk.js",
-    "main.js.map": "/powerbi-app/static/js/main.1949ec64.chunk.js.map",
+    "main.js": "/powerbi-app/static/js/main.ba74b671.chunk.js",
+    "main.js.map": "/powerbi-app/static/js/main.ba74b671.chunk.js.map",
     "runtime-main.js": "/powerbi-app/static/js/runtime-main.7b8ac0ca.js",
     "runtime-main.js.map": "/powerbi-app/static/js/runtime-main.7b8ac0ca.js.map",
     "static/css/2.da1eef19.chunk.css": "/powerbi-app/static/css/2.da1eef19.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.da1eef19.chunk.css",
     "static/js/2.b40866b8.chunk.js",
     "static/css/main.3e4645d8.chunk.css",
-    "static/js/main.1949ec64.chunk.js"
+    "static/js/main.ba74b671.chunk.js"
   ]
 }
