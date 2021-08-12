@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/powerbi-app/static/css/main.d775ab70.chunk.css",
+    "main.js": "/powerbi-app/static/js/main.35253c42.chunk.js",
+    "main.js.map": "/powerbi-app/static/js/main.35253c42.chunk.js.map",
+    "runtime-main.js": "/powerbi-app/static/js/runtime-main.7b8ac0ca.js",
+    "runtime-main.js.map": "/powerbi-app/static/js/runtime-main.7b8ac0ca.js.map",
+    "static/js/2.7bdecee1.chunk.js": "/powerbi-app/static/js/2.7bdecee1.chunk.js",
+    "static/js/2.7bdecee1.chunk.js.map": "/powerbi-app/static/js/2.7bdecee1.chunk.js.map",
+    "index.html": "/powerbi-app/index.html",
+    "static/css/main.d775ab70.chunk.css.map": "/powerbi-app/static/css/main.d775ab70.chunk.css.map",
+    "static/js/2.7bdecee1.chunk.js.LICENSE.txt": "/powerbi-app/static/js/2.7bdecee1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b8ac0ca.js",
+    "static/js/2.7bdecee1.chunk.js",
+    "static/css/main.d775ab70.chunk.css",
+    "static/js/main.35253c42.chunk.js"
+  ]
+}
