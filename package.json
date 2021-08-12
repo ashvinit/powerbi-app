@@ -1,6 +1,6 @@
 {
   "name": "powerbi-app",
-  "homepage": "http://ashvinit.github.io/powerbi-app",
+  "homepage": "https://ashvinit.github.io/powerbi-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
