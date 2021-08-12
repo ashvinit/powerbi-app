@@ -13,11 +13,11 @@ function App() {
         <Router>
           <Switch>
             <Route 
-              exact path="/Report" 
+              exact path="/#/Show-Report" 
               component={Report} 
             />       
             <Route 
-              exact path="/" 
+              exact path="/#/Embedded-Report" 
               component={Dashboard} 
             /> 
           </Switch>
