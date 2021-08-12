@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/powerbi-app/static/css/main.d775ab70.chunk.css",
-    "main.js": "/powerbi-app/static/js/main.0f10d1d9.chunk.js",
-    "main.js.map": "/powerbi-app/static/js/main.0f10d1d9.chunk.js.map",
+    "main.css": "/powerbi-app/static/css/main.3e4645d8.chunk.css",
+    "main.js": "/powerbi-app/static/js/main.1949ec64.chunk.js",
+    "main.js.map": "/powerbi-app/static/js/main.1949ec64.chunk.js.map",
     "runtime-main.js": "/powerbi-app/static/js/runtime-main.7b8ac0ca.js",
     "runtime-main.js.map": "/powerbi-app/static/js/runtime-main.7b8ac0ca.js.map",
-    "static/js/2.7bdecee1.chunk.js": "/powerbi-app/static/js/2.7bdecee1.chunk.js",
-    "static/js/2.7bdecee1.chunk.js.map": "/powerbi-app/static/js/2.7bdecee1.chunk.js.map",
+    "static/css/2.da1eef19.chunk.css": "/powerbi-app/static/css/2.da1eef19.chunk.css",
+    "static/js/2.b40866b8.chunk.js": "/powerbi-app/static/js/2.b40866b8.chunk.js",
+    "static/js/2.b40866b8.chunk.js.map": "/powerbi-app/static/js/2.b40866b8.chunk.js.map",
     "index.html": "/powerbi-app/index.html",
-    "static/css/main.d775ab70.chunk.css.map": "/powerbi-app/static/css/main.d775ab70.chunk.css.map",
-    "static/js/2.7bdecee1.chunk.js.LICENSE.txt": "/powerbi-app/static/js/2.7bdecee1.chunk.js.LICENSE.txt"
+    "static/css/2.da1eef19.chunk.css.map": "/powerbi-app/static/css/2.da1eef19.chunk.css.map",
+    "static/css/main.3e4645d8.chunk.css.map": "/powerbi-app/static/css/main.3e4645d8.chunk.css.map",
+    "static/js/2.b40866b8.chunk.js.LICENSE.txt": "/powerbi-app/static/js/2.b40866b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7b8ac0ca.js",
-    "static/js/2.7bdecee1.chunk.js",
-    "static/css/main.d775ab70.chunk.css",
-    "static/js/main.0f10d1d9.chunk.js"
+    "static/css/2.da1eef19.chunk.css",
+    "static/js/2.b40866b8.chunk.js",
+    "static/css/main.3e4645d8.chunk.css",
+    "static/js/main.1949ec64.chunk.js"
   ]
 }
