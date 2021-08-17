@@ -1,0 +1,9 @@
+.pdfContainer {
+    margin-top: 5%;
+    width: auto;
+    height: auto;
+    overflow-y: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

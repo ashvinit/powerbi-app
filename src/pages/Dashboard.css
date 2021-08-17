@@ -1,3 +1,23 @@
 .reportButtonDiv {
+    margin-top: 10%;
+}
+
+.createButtonDiv {
     margin-top: 5%;
 }
+
+.pdfDiv {
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.reportButton {
+    background-color: #0D6EFD;
+    color: white;
+    padding: 1em 2em;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 10px;
+    margin-left: 5%;
+
+  }
